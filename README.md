@@ -1,5 +1,6 @@
 > [!WARNING]
 > YARG is **not done yet**! Expect incomplete features and bugs!
+> Nothing was ever done with this, so please do not use this for anything related to the normal YARG repo
 
 <br/>
 
